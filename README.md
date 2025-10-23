@@ -2,7 +2,6 @@
 Vitrine dos meus projetos, experiências e tecnologias. Explore meus repositórios, filtre por stack e conheça meu trabalho.
 Link do portfólio: [https://seu-dominio-ou-github-pages](https://seu-dominio-ou-github-pages)
 Prévia:
-- Screenshot: <link-da-imagem-ou-gif>
 - Repositório: [https://github.com/<seu-usuario](https://github.com/<seu-usuario)/<seu-repositorio-de-portfolio>>
 
 ## Destaques
