@@ -1,8 +1,6 @@
 # Portfólio — 
 Vitrine dos meus projetos, experiências e tecnologias. Explore meus repositórios, filtre por stack e conheça meu trabalho.
-Link do portfólio: [https://seu-dominio-ou-github-pages](https://seu-dominio-ou-github-pages)
-Prévia:
-- Repositório: [https://github.com/<seu-usuario](https://github.com/<seu-usuario)/<seu-repositorio-de-portfolio>>
+Link do portfólio: [https://seu-dominio-ou-github-pages]([(https://cauaadev.vercel.app/))
 
 ## Destaques
 - Lista projetos automaticamente do GitHub
