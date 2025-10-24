@@ -97,15 +97,7 @@ export default function Navbar() {
                 <li><Link href="#sobre">Sobre</Link></li>
                 <li><Link href="#skills">Skills</Link></li>
                 <li><Link href="#contato">Contato</Link></li>
-                <li>
-                  <a
-                      href="/src/assets/Curriculo_Caua_Diniz.pdf"
-                      className="inline-block px-3 py-1.5 rounded-lg border border-white/15 hover:bg-white/10 transition"
-                      onClick={() => setOpen(false)}
-                  >
-                    Baixar CV
-                  </a>
-                </li>
+        
               </ul>
             </div>
         )}
