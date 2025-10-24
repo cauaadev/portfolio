@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { motion, useScroll } from "framer-motion";
 
+
 export default function Navbar() {
   const { scrollYProgress } = useScroll();
   const [open, setOpen] = useState(false);
@@ -63,14 +64,7 @@ export default function Navbar() {
                 Contato
               </a>
             </li>
-            <li>
-              <a
-                  href="/src/assets/Curriculo_Caua_Diniz.pdf"
-                  className="px-3 py-1.5 rounded-full border border-white/15 hover:bg-white/10 transition"
-              >
-                CV
-              </a>
-            </li>
+           
           </ul>
 
           {/* Mobile toggle */}
