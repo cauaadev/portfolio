@@ -43,7 +43,6 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.05 }}
           >
             Construo APIs escaláveis e bem testadas,
-            <br />
             com foco em performance e clareza.
           </motion.h1>
 
