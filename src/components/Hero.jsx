@@ -22,7 +22,7 @@ export default function Hero() {
         </h1>
 
         <p style={{ marginTop:"2rem", color:"var(--text-muted)", fontSize:"1.05rem", maxWidth:"52ch", fontWeight:400 }}>
-          Sou desenvolvedor há 2 anos. Trabalho com pequenas e médias empresas, de qualquer setor. Você me conta o problema, eu construo o que resolve.
+          Desenvolvedor há 2 anos, atendendo pequenas e médias empresas em qualquer setor. Você me conta o problema — eu construo a solução.
         </p>
 
         <div style={{ marginTop:"2.5rem", display:"flex", gap:"1rem", flexWrap:"wrap", alignItems:"center" }}>
